@@ -5,13 +5,10 @@ Tools for Ableton Live/M4L MIDI Device
 
 **FLUX** is a collection of tools designed to break down the barriers between music theory and production, transforming simple ideas into complete arrangements.
 
+<img src="./images/FLUXSuite-Diagram.png" alt="FLUXSuite Diagram"/>
+
 # Devices
 
-| Device | Modules | Description |
-| :---- | :---- | :---- |
-| **FLUXProgression** | **FLUXSequencer FLUXGenerator FLUXTransport** | Chords Progressions Manager and Sequencer |
-| **FLUXArticulator** |  | Chord Articulator |
-| **FLUXSteps** |  | Step Sequencer |
 
 **FLUXProgressions** is 
 
