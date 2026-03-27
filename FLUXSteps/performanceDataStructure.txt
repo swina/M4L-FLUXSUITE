@@ -1,0 +1,9 @@
+{
+	"sequences" : [],
+	"repeats" : [],
+	"transposes" : [],
+	"performance" : {
+		"sequence" : [],
+		"transpose" : []
+	}
+}
